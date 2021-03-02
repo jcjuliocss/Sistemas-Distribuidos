@@ -1,0 +1,21 @@
+{'numero': 7, 'algoritmo': 'TestaPrimo', 'tempo_medio': 0.00023306686974441013, 'desvio_padrao': 0.00026070623353084384, 'primo': 1}
+{'numero': 7, 'algoritmo': 'testa_primo2', 'tempo_medio': 0.0001941681451474627, 'desvio_padrao': 4.3920711741086125e-05, 'primo': 1, 'speedup': 1.2003352535886123}
+{'numero': 7, 'algoritmo': 'testa_primo3', 'tempo_medio': 0.0006745341427934667, 'desvio_padrao': 0.0026042387899558885, 'primo': 1, 'speedup': 0.34552271702541837}
+{'numero': 37, 'algoritmo': 'TestaPrimo', 'tempo_medio': 0.0002609653165563941, 'desvio_padrao': 2.1455560353269055e-05, 'primo': 1}
+{'numero': 37, 'algoritmo': 'testa_primo2', 'tempo_medio': 0.00023079968135183057, 'desvio_padrao': 2.2213208138462302e-05, 'primo': 1, 'speedup': 1.1307005062913371}
+{'numero': 37, 'algoritmo': 'testa_primo3', 'tempo_medio': 0.00024703282785291475, 'desvio_padrao': 2.0023537049347886e-05, 'primo': 1, 'speedup': 1.0563993410291803}
+{'numero': 8431, 'algoritmo': 'TestaPrimo', 'tempo_medio': 0.021071600106855232, 'desvio_padrao': 0.005725067317049314, 'primo': 1}
+{'numero': 8431, 'algoritmo': 'testa_primo2', 'tempo_medio': 0.01529603274927164, 'desvio_padrao': 0.00044133368790602085, 'primo': 1, 'speedup': 1.377585969659918}
+{'numero': 8431, 'algoritmo': 'testa_primo3', 'tempo_medio': 0.01513863583871474, 'desvio_padrao': 0.0022576444363157696, 'primo': 1, 'speedup': 1.39190877773596}
+{'numero': 13033, 'algoritmo': 'TestaPrimo', 'tempo_medio': 0.029983834732168663, 'desvio_padrao': 0.0035625598219663156, 'primo': 1}
+{'numero': 13033, 'algoritmo': 'testa_primo2', 'tempo_medio': 0.02372470189584419, 'desvio_padrao': 0.0035126308119134645, 'primo': 1, 'speedup': 1.2638234555613477}
+{'numero': 13033, 'algoritmo': 'testa_primo3', 'tempo_medio': 0.023649166299340624, 'desvio_padrao': 0.005014901482868, 'primo': 1, 'speedup': 1.2678601161938068}
+{'numero': 524287, 'algoritmo': 'TestaPrimo', 'tempo_medio': 1.2228884355863556, 'desvio_padrao': 0.09676632010783048, 'primo': 1}
+{'numero': 524287, 'algoritmo': 'testa_primo2', 'tempo_medio': 0.9626508661312982, 'desvio_padrao': 0.06568543412203579, 'primo': 1, 'speedup': 1.2703343222459251}
+{'numero': 524287, 'algoritmo': 'testa_primo3', 'tempo_medio': 0.9253666653724698, 'desvio_padrao': 0.03128400979660963, 'primo': 1, 'speedup': 1.3215177089766144}
+{'numero': 664283, 'algoritmo': 'TestaPrimo', 'tempo_medio': 0.0012127328470038872, 'desvio_padrao': 4.757587142574448e-05, 'primo': 0}
+{'numero': 664283, 'algoritmo': 'testa_primo2', 'tempo_medio': 0.0009905663318932056, 'desvio_padrao': 3.742630129314056e-05, 'primo': 0, 'speedup': 1.2242823200805433}
+{'numero': 664283, 'algoritmo': 'testa_primo3', 'tempo_medio': 0.000986865779850632, 'desvio_padrao': 1.807578412345963e-05, 'primo': 0, 'speedup': 1.2288731373251605}
+{'numero': 3531271, 'algoritmo': 'TestaPrimo', 'tempo_medio': 7.904058433390067, 'desvio_padrao': 0.07678683703824501, 'primo': 1}
+{'numero': 3531271, 'algoritmo': 'testa_primo2', 'tempo_medio': 6.184462332263744, 'desvio_padrao': 0.2370940012492417, 'primo': 1, 'speedup': 1.2780510267085556}
+{'numero': 3531271, 'algoritmo': 'testa_primo3', 'tempo_medio': 6.163031234367129, 'desvio_padrao': 0.17161913389184227, 'primo': 1, 'speedup': 1.2824952742920377}
